@@ -9,6 +9,7 @@ The exe is also pushed so you can download it and not worry about building if it
 A standalone **Direct3D 11 + Dear ImGui** recreation of the gamesense menu. The original menu appearance, layout, GDI glyphs, icons, control behavior and visibility rules are preserved.
 
 This is a menu preview. Settings change the local UI state; game features and Lua execution are not implemented.
+<img width="957" height="743" alt="image" src="https://github.com/user-attachments/assets/73839b52-0dba-4fc9-b577-96d04f112bf4" />
 
 ## Build
 
